@@ -3,4 +3,4 @@ I publish open source software here. All the repositories are at your disposal.
 
 ## Social
 🌌 <a href="https://t.me/sata30">Telegram</a><br>
-🌌 <a href="https://github.com/rodukov" style="background:red;">GitHub</a>
+🌌 <a href="https://github.com/rodukov">GitHub</a>
