@@ -11,4 +11,4 @@ I publish open source software here. All the repositories are at your disposal.
 🔸 <strong>Bitcoin Cash(BCH):</strong> qrw500nhwkh5a28dgntu9m27m2hq3cgnsyxpj8ukfr<br>
 🔸 <strong>Solana(SOL):</strong> 6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d<br>
 
-<i>オープンソースコード</i>
+[<img align="left" alt="Open Source" style="margin: 0; padding: 0;" width="20px" src="./open-source.png"/>](https://github.com/rodukov) <i>オープンソースコード</i>
