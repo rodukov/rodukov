@@ -10,3 +10,5 @@ I publish open source software here. All the repositories are at your disposal.
 🔸 <strong>Litecoin(LTC):</strong> ltc1qemmwa33s4q486z3yezttgfstthwzhs2fuccmxg<br>
 🔸 <strong>Bitcoin Cash(BCH):</strong> qrw500nhwkh5a28dgntu9m27m2hq3cgnsyxpj8ukfr<br>
 🔸 <strong>Solana(SOL):</strong> 6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d<br>
+
+<i>オープンソースコード</i>
