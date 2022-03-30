@@ -2,7 +2,7 @@
 I publish open source software here. All the repositories are at your disposal.
 
 ## Social
-[<img align="left" alt="Python" style="margin: 0; padding: 0;" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>](https://t.me/sata30) <a href="https://t.me/sata30">Telegram</a><br>
+[<img align="left" alt="Python" style="margin: 0; padding: 0;" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>](https://t.me/sata30) <a href="https://t.me/sata30">Telegram</a><br>
 
 ## Donate
 🔸 <strong>Bitcoin(BTC):</strong> bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a<br>
@@ -11,4 +11,4 @@ I publish open source software here. All the repositories are at your disposal.
 🔸 <strong>Bitcoin Cash(BCH):</strong> qrw500nhwkh5a28dgntu9m27m2hq3cgnsyxpj8ukfr<br>
 🔸 <strong>Solana(SOL):</strong> 6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d<br>
 
-[<img align="left" alt="Open Source" style="margin: 0; padding: 0; width: 24px; height: 24px;" src="./open-source.png"/>](https://github.com/rodukov) <i>オープンソースコード</i>
+[<img align="left" alt="Open Source" style="margin: 0; padding: 0; width: 20px; height: 20px;" src="./open-source.png"/>](https://github.com/rodukov) <i>オープンソースコード</i>
