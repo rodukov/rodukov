@@ -2,7 +2,9 @@
 I publish open source software here. All the repositories are at your disposal.
 
 ## Social
-[<img align="left" alt="Python" style="margin: 0; padding-top: 10px;" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>](https://t.me/sata30) <a href="https://t.me/sata30">Telegram</a><br>
+<div>
+[<img align="left" alt="Python" style="margin: 0; padding: 0px;" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>](https://t.me/sata30) <a href="https://t.me/sata30">Telegram</a><br>
+</div>
 <div style="margin-top: 10px;">
 [<img align="left" alt="Blog" style="margin: 0; padding: 0;" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_newspaper_blue.svg"/>](https://rodukov.github.io/) <a href="https://rodukov.github.io/">Blog</a><br>
 </div>
