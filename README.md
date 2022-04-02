@@ -12,7 +12,8 @@ I publish open source software here. All the repositories are at your disposal.
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
+![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=flat-square&logo=windowsxp&logoColor=white)
 
