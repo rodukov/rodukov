@@ -25,6 +25,6 @@ I publish open source software here. All the repositories are at your disposal.
 🔸 <strong>Solana(SOL):</strong> `6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d`<br>
 
 ## Top languages
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=light)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark)
 
 [<img align="right" alt="Open Source" style="margin: 0; padding: 0; width: 20px; height: 20px;" src="./open-source.png"/>](https://github.com/rodukov) <p align="right">オープンソースは美しいですよね。</p>
