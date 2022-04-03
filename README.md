@@ -24,11 +24,6 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://www.nano-editor.org/"><img src="https://img.shields.io/badge/-Nano-red?style=flat-square"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
 
-## Profile available
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![NotaBug](https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white)
-
 ## Donate
 🔸 <strong>Bitcoin(BTC):</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
 🔸 <strong>Ethereum(ETH):</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
@@ -38,5 +33,10 @@ I publish open source software here. All the repositories are at your disposal.
 
 ## Top languages
 <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
+
+## Profile available
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![NotaBug](https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white)
 
 [<img align="right" alt="Open Source" style="margin: 0; padding: 0; width: 20px; height: 20px;" src="./open-source.png"/>](https://github.com/rodukov) <p align="right">オープンソースは美しいですよね。</p>
