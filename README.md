@@ -28,7 +28,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
-<a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
+<a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
 
 ## Donate
 🔸 <strong>Bitcoin(BTC):</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
