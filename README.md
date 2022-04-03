@@ -6,7 +6,7 @@ I publish open source software here. All the repositories are at your disposal.
 [<img align="left" alt="Telegram" style="margin: 0; padding: 0px;" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>](https://t.me/sata30) <a href="https://t.me/sata30">Telegram</a><br>
 <div><a href="https://rodukov.github.io/"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_newspaper_blue.svg"/></a> <a href="https://rodukov.github.io/">Blog</a></div>
 
-### Operating Systems
+## Operating Systems
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
@@ -17,7 +17,7 @@ I publish open source software here. All the repositories are at your disposal.
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
 ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
 
-### IDEs
+## IDEs
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
