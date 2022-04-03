@@ -9,7 +9,7 @@ I publish open source software here. All the repositories are at your disposal.
 ## Languages
 
 <a href="https://www.python.org/"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" style="margin-left: 5px;"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" ><img style="margin-left: 25px; width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
 
 
 ## Operating Systems
