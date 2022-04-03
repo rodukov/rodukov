@@ -65,5 +65,3 @@ I publish open source software here. All the repositories are at your disposal.
 
 ## Commit stats
 <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
-  
-[<img align="right" alt="Open Source" style="margin: 0; padding: 0; width: 20px; height: 20px;" src="./open-source.png"/>](https://github.com/rodukov) <p align="right">オープンソースは美しいですよね。</p>
