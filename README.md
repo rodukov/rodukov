@@ -12,7 +12,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white"></a>
 <a href="https://tails.boum.org/"><img src="https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white"></a>
 <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
-<a href="https://www.microsoft.com/en-us/windows/get-windows-10"><img src="https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-us/windows/get-windows-10"><img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
 <a href="https://support.microsoft.com/en-us/windows/windows-xp-support-has-ended-47b944b8-f4d3-82f2-9acc-21c79ee6ef5e"><img src="https://img.shields.io/badge/Windows%20xp-003399?style=flat-square&logo=windowsxp&logoColor=white"></a>
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple"></a>
 <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple"></a>
@@ -21,7 +21,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"></a>
 <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"></a>
 <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"></a>
-<a href="https://www.nano-editor.org/"><img src="https://img.shields.io/badge/GNU-Nano-red?style=flat-square"></a>
+<a href="https://www.nano-editor.org/"><img src="https://img.shields.io/badge/-Nano-red?style=flat-square"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
 
 ## Donate
