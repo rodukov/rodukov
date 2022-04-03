@@ -18,6 +18,12 @@ I publish open source software here. All the repositories are at your disposal.
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
 ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
 
+## IDEs
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## Donate
 🔸 <strong>Bitcoin(BTC):</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
 🔸 <strong>Ethereum(ETH):</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
