@@ -7,15 +7,15 @@ I publish open source software here. All the repositories are at your disposal.
 <div><a href="https://rodukov.github.io/"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_newspaper_blue.svg"/></a> <a href="https://rodukov.github.io/">Blog</a></div>
 
 ## Operating Systems
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=flat-square&logo=windowsxp&logoColor=white)
-![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
-![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
+<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white"></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
+<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white"></a>
+<a href="https://tails.boum.org/"><img src="https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white"></a>
+<a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-us/windows/get-windows-10"><img src="https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
+<a href="https://support.microsoft.com/en-us/windows/windows-xp-support-has-ended-47b944b8-f4d3-82f2-9acc-21c79ee6ef5e"><img src="https://img.shields.io/badge/Windows%20xp-003399?style=flat-square&logo=windowsxp&logoColor=white"></a>
+<a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple"></a>
+<a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple"></a>
 
 ## IDEs
 <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"></a>
