@@ -8,8 +8,8 @@ I publish open source software here. All the repositories are at your disposal.
 
 ## Languages
 
-<div><a href="https://www.python.org/"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></div>
-<div style="margin-left: 10px;"><a href="https://en.wikipedia.org/wiki/JavaScript"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a></div>
+<a href="https://www.python.org/"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
 
 
 ## Operating Systems
