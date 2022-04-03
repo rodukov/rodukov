@@ -64,3 +64,6 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://notabug.org/rodukov/"><img src="https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white">
 
 [<img align="right" alt="Open Source" style="margin: 0; padding: 0; width: 20px; height: 20px;" src="./open-source.png"/>](https://github.com/rodukov) <p align="right">オープンソースは美しいですよね。</p>
+
+## Commit stats
+<img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
