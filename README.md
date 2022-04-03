@@ -29,7 +29,9 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
 <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
-
+<a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat-square&logo=xfce&logoColor=white"></a>
+<a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=flat-square&logo=gnome&logoColor=white"></a>
+<a href="https://kde.org//"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=flat-squaree&logo=kde&logoColor=white"></a>
 ## Donate
 🔸 <strong>Bitcoin(BTC):</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
 🔸 <strong>Ethereum(ETH):</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
