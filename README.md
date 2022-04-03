@@ -46,8 +46,8 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
 
 ## Profile available
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![NotaBug](https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white)
+<a href="https://github.com/rodukov"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
+<a href="https://notabug.org/rodukov"><img src="https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white">
 
 [<img align="right" alt="Open Source" style="margin: 0; padding: 0; width: 20px; height: 20px;" src="./open-source.png"/>](https://github.com/rodukov) <p align="right">オープンソースは美しいですよね。</p>
