@@ -7,10 +7,11 @@ I publish open source software here. All the repositories are at your disposal.
 <div><a href="https://rodukov.github.io/"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_newspaper_blue.svg"/></a> <a href="https://rodukov.github.io/">Blog</a></div>
 
 ## Languages
-<div style="display: flex;">
-  <div><a href="https://www.python.org/"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></div>
-  <div style="margin-left: 10px;"><a href="https://en.wikipedia.org/wiki/JavaScript"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a></div>
-</div>
+
+<div><a href="https://www.python.org/"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></div>
+<div style="margin-left: 10px;"><a href="https://en.wikipedia.org/wiki/JavaScript"><img style="width: 25px; height: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a></div>
+
+
 ## Operating Systems
 <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white"></a>
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
