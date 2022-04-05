@@ -55,7 +55,7 @@ I publish open source software here. All the repositories are at your disposal.
 🔸 <strong>Solana(SOL):</strong> `6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d`<br>
 
 ## Top languages
-<a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
+<a href="https://github.com/rodukov/"><img src=""></a>
 
 ## Profile available
 <a href="https://github.com/rodukov/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
