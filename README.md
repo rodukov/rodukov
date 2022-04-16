@@ -48,11 +48,11 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=flat-square&logo=dwm&logoColor=white"></a>
 
 ## Donate
-🔸 <strong>Bitcoin(BTC):</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
-🔸 <strong>Ethereum(ETH):</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
-🔸 <strong>Litecoin(LTC):</strong> `ltc1qemmwa33s4q486z3yezttgfstthwzhs2fuccmxg`<br>
-🔸 <strong>Bitcoin Cash(BCH):</strong> `qrw500nhwkh5a28dgntu9m27m2hq3cgnsyxpj8ukfr`<br>
-🔸 <strong>Solana(SOL):</strong> `6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d`<br>
+🔸 <strong>Bitcoin:</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
+🔸 <strong>Ethereum:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
+🔸 <strong>Litecoin:</strong> `ltc1qemmwa33s4q486z3yezttgfstthwzhs2fuccmxg`<br>
+🔸 <strong>Bitcoin Cash:</strong> `qrw500nhwkh5a28dgntu9m27m2hq3cgnsyxpj8ukfr`<br>
+🔸 <strong>Solana:</strong> `6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d`<br>
 
 ## Top languages
 <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
