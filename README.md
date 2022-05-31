@@ -48,6 +48,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=flat-square&logo=gnome&logoColor=white"></a>
 <a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=flat-square&logo=kde&logoColor=white"></a>
 <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=flat-square&logo=dwm&logoColor=white"></a>
+<a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
 
 ## Donate
 🔸 <strong>Bitcoin:</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
