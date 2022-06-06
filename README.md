@@ -4,9 +4,9 @@ I publish open source software here. All the repositories are at your disposal.
 ## Social
 <div><a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/></a> <a href="https://t.me/sata30">Telegram</a></div>
 
-<div style="margin-top: 8px"><a href="https://pypi.org/user/pythonpackage/"><img align="left" alt="Pypi" style="margin: 0; padding: 0; background: white" width="20px" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/4f90a97dc51329df44cf0fdc3029f586da3dd034/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f353231333930362f37373432313233372d36643430323138302d366530362d313165612d383963312d3931356364373437363630612e706e67"/></a> <a href="https://pypi.org/user/pythonpackage/">Pypi</a></div>
+<div style="margin-top: 18px"><a href="https://pypi.org/user/pythonpackage/"><img align="left" alt="Pypi" style="margin: 0; padding: 0; background: white" width="20px" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/4f90a97dc51329df44cf0fdc3029f586da3dd034/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f353231333930362f37373432313233372d36643430323138302d366530362d313165612d383963312d3931356364373437363630612e706e67"/></a> <a href="https://pypi.org/user/pythonpackage/">Pypi</a></div>
 
-<div style="margin-top: 8px"><a href="https://rodukov.github.io/"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_newspaper_blue.svg"/></a> <a href="https://rodukov.github.io/">Personal Website</a></div>
+<div style="margin-top: 18px"><a href="https://rodukov.github.io/"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_newspaper_blue.svg"/></a> <a href="https://rodukov.github.io/">Personal Website</a></div>
 
 ## Profile available
 <a href="https://github.com/rodukov/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
