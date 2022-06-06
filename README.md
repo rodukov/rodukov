@@ -8,6 +8,12 @@ I publish open source software here. All the repositories are at your disposal.
 
 <div><a href="https://rodukov.github.io/"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_newspaper_blue.svg"/></a> <a href="https://rodukov.github.io/">Personal Website</a></div>
 
+## Profile available
+<a href="https://github.com/rodukov/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://bitbucket.org/rodukov/"><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
+<a href="https://notabug.org/rodukov/"><img src="https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white">
+
+
 ## Languages
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
@@ -61,11 +67,6 @@ I publish open source software here. All the repositories are at your disposal.
 
 ## Top languages
 <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
-
-## Profile available
-<a href="https://github.com/rodukov/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<a href="https://bitbucket.org/rodukov/"><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
-<a href="https://notabug.org/rodukov/"><img src="https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white">
 
 ## Commit stats
 <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
