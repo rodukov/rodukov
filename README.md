@@ -4,6 +4,7 @@ I publish open source software here. All the repositories are at your disposal.
 ## Social
 
 [<img align="left" alt="Telegram" style="margin: 0; padding: 0px;" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>](https://t.me/sata30) <a href="https://t.me/sata30">Telegram</a><br>
+[<img align="left" alt="Pypi" style="margin: 0; padding: 0px;" width="20px" src="[https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/bd88704286d2172a3e37)"/>](https://pypi.org/user/pythonpackage/) <a href="https://pypi.org/user/pythonpackage/">Pypi</a><br>
 <div><a href="https://rodukov.github.io/"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_newspaper_blue.svg"/></a> <a href="https://rodukov.github.io/">Personal Website</a></div>
 
 ## Languages
