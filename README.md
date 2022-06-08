@@ -4,7 +4,6 @@ I publish open source software here. All the repositories are at your disposal.
 ## Social
 <div><a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/></a> <a href="https://t.me/sata30">Telegram</a></div>
 
-<div><a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Breezeicons-apps-48-steam.svg"/></a> <a href="https://t.me/sata30">Steam</a></div>
 
 <div><a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png">Discord</a></div>
 
