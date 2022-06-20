@@ -8,3 +8,4 @@
 🔸 <strong>Binance Coin:</strong> `bnb1dqf6q92lx5u23zqdnxpk8xg9jzjjakv7csqd8r`<br>
 🔸 <strong>Binance Smart Chain:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
 🔸 <strong>Dogecoin:</strong> `DNaaCEGMkjFSVMUj4wvdQMhjKVi7hnVnfH`<br>
+🔸 <strong>Dash:</strong> `Xq74iGk4froQvpCjMtaV3AQNtaj53u6tkD`<br>
