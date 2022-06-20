@@ -4,3 +4,4 @@
 🔸 <strong>Litecoin:</strong> `ltc1qemmwa33s4q486z3yezttgfstthwzhs2fuccmxg`<br>
 🔸 <strong>Bitcoin Cash:</strong> `qrw500nhwkh5a28dgntu9m27m2hq3cgnsyxpj8ukfr`<br>
 🔸 <strong>Solana:</strong> `6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d`<br>
+🔸 <strong>Polkadot:</strong> `12nCs6gS45iQaS4YajEaqztw38WUXvRQnHA2rxedVTpL5aye`<br>
