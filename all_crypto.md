@@ -12,3 +12,4 @@
 🔸 <strong>Ethereum Classic:</strong> `0x2F74B1dfe42fCf32271842997eD0ab0d8E8F50c7`<br>
 🔸 <strong>Ripple:</strong> `rnV13VtDxTxTRV79sgN2Zvf85Qtiav3AkJ`<br>
 🔸 <strong>Stellar:</strong> `GBRFKYWO5KPNOY4YHXL2QUMJCVISATKZRNPNUGHESELWEREPAOXRLTMV`<br>
+🔸 <strong>VeChain:</strong> `0xe08d28082E6d87cF98E423Ea7124844c2e82131F`<br>
