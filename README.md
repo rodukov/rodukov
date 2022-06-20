@@ -31,7 +31,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 
-## Operating Systems
+### Operating Systems
 <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white"></a>
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
 <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white"></a>
@@ -43,7 +43,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple"></a>
 <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple"></a>
 
-## IDEs
+### IDEs
 <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"></a>
 <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"></a>
 <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"></a>
@@ -51,7 +51,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://micro-editor.github.io/"><img src="https://img.shields.io/badge/Micro-2E3192.svg?style=flat-square&logo=micro&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
 
-## Others
+### Others
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
