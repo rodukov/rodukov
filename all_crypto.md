@@ -16,4 +16,4 @@
 🔸 <strong>DigiByte:</strong> `dgb1qxmd5easz6mjrd5m28j9r43vzh2j6e52ur90262`<br>
 🔹 <strong>Basic Attention Token:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
 🔹 <strong>Binance Smart Chain:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
-🔹 <strong>Tether(ERC-20)</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
+🔹 <strong>Tether[ERC-20]</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
