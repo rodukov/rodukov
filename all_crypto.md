@@ -5,3 +5,5 @@
 🔸 <strong>Bitcoin Cash:</strong> `qrw500nhwkh5a28dgntu9m27m2hq3cgnsyxpj8ukfr`<br>
 🔸 <strong>Solana:</strong> `6NnpZPJ92P7hNhKcwGJxWfyE9eeAquK2EkN7fML6YP1d`<br>
 🔸 <strong>Polkadot:</strong> `12nCs6gS45iQaS4YajEaqztw38WUXvRQnHA2rxedVTpL5aye`<br>
+🔸 <strong>Binance Coin:</strong> `bnb1dqf6q92lx5u23zqdnxpk8xg9jzjjakv7csqd8r`<br>
+
