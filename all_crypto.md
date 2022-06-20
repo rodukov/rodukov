@@ -14,6 +14,6 @@
 🔸 <strong>VeChain:</strong> `0xe08d28082E6d87cF98E423Ea7124844c2e82131F`<br>
 🔸 <strong>Groestlcoin:</strong> `grs1qsl2d2l9j6qtrgg4u5kjppye4hzmc8evkcsz0vn`<br>
 🔸 <strong>DigiByte:</strong> `dgb1qxmd5easz6mjrd5m28j9r43vzh2j6e52ur90262`<br>
-🔹 <strong>Basic Attention Token:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
-🔹 <strong>Binance Smart Chain:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
-🔹 <strong>Tether[ERC-20]</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
+🔹 <strong>Basic Attention Token[ERC-20]:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
+🔹 <strong>Binance Smart Chain[ERC-20]:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
+🔹 <strong>Tether[ERC-20]:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
