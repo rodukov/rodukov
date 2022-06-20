@@ -13,3 +13,4 @@
 🔸 <strong>Ripple:</strong> `rnV13VtDxTxTRV79sgN2Zvf85Qtiav3AkJ`<br>
 🔸 <strong>Stellar:</strong> `GBRFKYWO5KPNOY4YHXL2QUMJCVISATKZRNPNUGHESELWEREPAOXRLTMV`<br>
 🔸 <strong>VeChain:</strong> `0xe08d28082E6d87cF98E423Ea7124844c2e82131F`<br>
+🔸 <strong>Basic Attention Token:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
