@@ -9,3 +9,4 @@
 🔸 <strong>Binance Smart Chain:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
 🔸 <strong>Dogecoin:</strong> `DNaaCEGMkjFSVMUj4wvdQMhjKVi7hnVnfH`<br>
 🔸 <strong>Dash:</strong> `Xq74iGk4froQvpCjMtaV3AQNtaj53u6tkD`<br>
+🔸 <strong>Ethereum Classic:</strong> `0x2F74B1dfe42fCf32271842997eD0ab0d8E8F50c7`<br>
