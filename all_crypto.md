@@ -11,3 +11,4 @@
 🔸 <strong>Dash:</strong> `Xq74iGk4froQvpCjMtaV3AQNtaj53u6tkD`<br>
 🔸 <strong>Ethereum Classic:</strong> `0x2F74B1dfe42fCf32271842997eD0ab0d8E8F50c7`<br>
 🔸 <strong>Ripple:</strong> `rnV13VtDxTxTRV79sgN2Zvf85Qtiav3AkJ`<br>
+🔸 <strong>Stellar:</strong> `GBRFKYWO5KPNOY4YHXL2QUMJCVISATKZRNPNUGHESELWEREPAOXRLTMV`<br>
