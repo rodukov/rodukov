@@ -15,6 +15,9 @@
 🔸 <strong>Groestlcoin:</strong> `grs1qsl2d2l9j6qtrgg4u5kjppye4hzmc8evkcsz0vn`<br>
 🔸 <strong>DigiByte:</strong> `dgb1qxmd5easz6mjrd5m28j9r43vzh2j6e52ur90262`<br>
 🔸 <strong>Filecoin:</strong> `f1mqokchhgyx2rzmskdtsxt2hf2zmhuo5gzfeivra`<br>
+🔸 <strong>Ravencoin:</strong> `RYXVjbZnr2gRrHSxYdZGtMWSSZyKsUMhjP`<br>
 🔹 <strong>Basic Attention Token[ERC-20]:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
 🔹 <strong>Binance Smart Chain[ERC-20]:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
 🔹 <strong>Tether[ERC-20]:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
+🔹 <strong>Polygon[ERC-20]:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
+🔹 <strong>Polygon[ERC-20]:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
