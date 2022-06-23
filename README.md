@@ -73,7 +73,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
   
 <details>
-  <summary>## Commit stats</summary>
+  ## <summary>Commit stats</summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
 </details>
 
