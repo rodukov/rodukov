@@ -2,7 +2,8 @@
 I publish open source software here. All the repositories are at your disposal.
 
 ## Social
-<div>
+<div style="display: flex;">
+ <a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>Telegram</a>
  <a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>Telegram</a>
 </div>
 
