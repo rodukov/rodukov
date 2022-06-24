@@ -68,8 +68,8 @@ I publish open source software here. All the repositories are at your disposal.
 
 <details>
   <summary>💰 <strong>Donate</strong></summary>
-  🔸 <strong>Bitcoin:</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
-  🔸 <strong>Ethereum:</strong> `0x0C1a70FD3FE5ccc47854804A157790307b3c50E6`<br>
+  🔸 <strong>Bitcoin:</strong> <code>bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a</code><br>
+  🔸 <strong>Ethereum:</strong> <code>0x0C1a70FD3FE5ccc47854804A157790307b3c50E6</code><br>
   🔸 <strong><a href="https://github.com/rodukov/rodukov/blob/main/all_crypto.md">Other Crypto</a></strong>
 </details>
   
