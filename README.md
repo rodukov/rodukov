@@ -45,7 +45,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple"></a>
 
 <details>
-  <summary>🧰 <strong>IDEs</strong></summary>
+  <summary>📔 <strong>IDEs</strong></summary>
   <div style="margin-top: 15px;">
   <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"></a>
   <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"></a>
