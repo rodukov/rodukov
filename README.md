@@ -35,11 +35,12 @@ I publish open source software here. All the repositories are at your disposal.
 
 <details>
   <summary>💎 <strong>Software</strong></summary>
+  <a href="https://www.microsoft.com/microsoft-365/excel?rtc=1"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a href="https://www.microsoft.com/microsoft-365/word?rtc=1"><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
+  <a href="https://www.microsoft.com/microsoft-365/powerpoint?rtc=2"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
   <a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
   <a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
-  <a href="https://blender.org/"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
-  <a href="https://blender.org/"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
-  <a href="https://blender.org/"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
+
 </details>
   
 <details>
