@@ -31,6 +31,21 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
+
+### Others
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
+<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
+<a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
+<a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat-square&logo=xfce&logoColor=white"></a>
+<a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=flat-square&logo=gnome&logoColor=white"></a>
+<a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=flat-square&logo=kde&logoColor=white"></a>
+<a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=flat-square&logo=dwm&logoColor=white"></a>
+<a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
+<a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"></a>
+<a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white"></a>
+
 <details>
   <summary>⚙️ <strong>Operating Systems</strong></summary>
   <div style="margin-top: 15px;">
@@ -58,20 +73,6 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   </div>
 </details>
-
-### Others
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
-<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
-<a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
-<a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat-square&logo=xfce&logoColor=white"></a>
-<a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=flat-square&logo=gnome&logoColor=white"></a>
-<a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=flat-square&logo=kde&logoColor=white"></a>
-<a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=flat-square&logo=dwm&logoColor=white"></a>
-<a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
-<a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"></a>
-<a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white"></a>
 
 <details>
   <summary>💰 <strong>Donate</strong></summary>
