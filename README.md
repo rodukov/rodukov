@@ -37,17 +37,20 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 <a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
 
-### Others
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
-<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
-<a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
-<a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat-square&logo=xfce&logoColor=white"></a>
-<a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=flat-square&logo=gnome&logoColor=white"></a>
-<a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=flat-square&logo=kde&logoColor=white"></a>
-<a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=flat-square&logo=dwm&logoColor=white"></a>
-<a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white"></a>
+<details>
+  <summary>💰 <strong>Others</strong></summary>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
+  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
+  <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
+  <a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat-square&logo=xfce&logoColor=white"></a>
+  <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=flat-square&logo=gnome&logoColor=white"></a>
+  <a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=flat-square&logo=kde&logoColor=white"></a>
+  <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=flat-square&logo=dwm&logoColor=white"></a>
+  <a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white"></a>
+</details>
+
 
 
 <details>
