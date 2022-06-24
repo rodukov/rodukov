@@ -19,7 +19,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://notabug.org/rodukov/"><img src="https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white">
 
 
-## Languages
+### Languages
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 <a href="/"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
@@ -33,12 +33,17 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
 
-### Software
-<a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
-
 <details>
-  <summary>💰 <strong>Others</strong></summary>
+  <summary>💎 <strong>Software</strong></summary>
+  <a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+  <a href="https://blender.org/"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a href="https://blender.org/"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
+  <a href="https://blender.org/"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
+</details>
+  
+<details>
+  <summary>📎 <strong>Others</strong></summary>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
