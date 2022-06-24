@@ -3,8 +3,8 @@ I publish open source software here. All the repositories are at your disposal.
 
 ## Social
 <div style="display: flex;">
- <div><a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>Telegram</a></div>
-  <div><a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>Telegram</a></div>
+ <div style="display: flex;"><a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>Telegram</a></div>
+  <div style="display: flex;"><a href="https://t.me/sata30"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/>Telegram</a></div>
 </div>
 
 <div><a href="https://discord.com/users/882592885512482837"><img align="left" alt="Blog" style="margin: 0; padding: 0; background: white" width="20px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"></a> <a href="https://discord.com/users/882592885512482837">Discord</a></div>
