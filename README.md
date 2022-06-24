@@ -44,13 +44,15 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple"></a>
 <a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple"></a>
 
-### IDEs
-<a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"></a>
-<a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"></a>
-<a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"></a>
-<a href="https://www.nano-editor.org/"><img src="https://img.shields.io/badge/-Nano-red?style=flat-square"></a>
-<a href="https://micro-editor.github.io/"><img src="https://img.shields.io/badge/Micro-2E3192.svg?style=flat-square&logo=micro&logoColor=white"></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+<details>
+  <summary>🧰 <strong>IDEs</strong></summary>
+  <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"></a>
+  <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"></a>
+  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"></a>
+  <a href="https://www.nano-editor.org/"><img src="https://img.shields.io/badge/-Nano-red?style=flat-square"></a>
+  <a href="https://micro-editor.github.io/"><img src="https://img.shields.io/badge/Micro-2E3192.svg?style=flat-square&logo=micro&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+</details>
 
 ### Others
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
