@@ -81,7 +81,7 @@ I publish open source software here. All the repositories are at your disposal.
   <summary>📊 <strong>Github Stats</strong></summary>
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api?username=rodukov&theme=great-gatsby&show_icons=true"></a>
   <br><img src="https://visitor-badge.glitch.me/badge?page_id=rodukov" alt="Visitors Counter">
-  <img src="https://komarev.com/ghpvc/?username=rodukov&label=Profile%20views&color=1abc9c&style=flat" alt="rodukov" />
+  <img src="https://komarev.com/ghpvc/?username=rodukov&label=Profile%20views&color=BD9F1A&style=flat" alt="rodukov" />
 </details>
 
 <details>
