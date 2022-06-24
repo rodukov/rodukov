@@ -63,7 +63,7 @@ I publish open source software here. All the repositories are at your disposal.
 <a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
 <a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"></a>
 <a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/Markdown-green?style=flat-square&logo=markdown&logoColor=white"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white"></a>
 
 ## Donate
 🔸 <strong>Bitcoin:</strong> `bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a`<br>
