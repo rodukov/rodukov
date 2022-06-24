@@ -70,21 +70,21 @@ I publish open source software here. All the repositories are at your disposal.
 🔸 <strong><a href="https://github.com/rodukov/rodukov/blob/main/all_crypto.md">Other Crypto</a></strong>
 
 <details>
-  <summary>🔮 <strong>Top languages</strong></summary>
+  <summary>🧰 <strong>Top Languages</strong></summary>
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
 </details>
 
 <details>
-  <summary>🔮 <strong>Github Statistics</strong></summary>
+  <summary>📊 <strong>Github Stats</strong></summary>
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api?username=rodukov&theme=great-gatsby&show_icons=true"></a>
 </details>
 
 <details>
-  <summary>🔮 <strong>Commit stats</strong></summary>
+  <summary>📈 <strong>Commit graph</strong></summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
 </details>
 <details>
-  <summary>🔮 <strong>All skills(minimalism)</strong></summary>
+  <summary>💻 <strong>All Skills(minimalism)</strong></summary>
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,vue,react,typescript,electron,django,bash,html,css,linux,git,docker,arduino,raspberrypi,figma,blender,markdown,vim,neovim,vscode,atom">
 </details>
 
