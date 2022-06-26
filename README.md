@@ -35,6 +35,7 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </details>
 
 <details>
@@ -58,7 +59,6 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=flat-square&logo=kde&logoColor=white"></a>
   <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=flat-square&logo=dwm&logoColor=white"></a>
   <a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white"></a>
 </details>
 
 
