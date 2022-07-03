@@ -118,6 +118,6 @@ I publish open source software here. All the repositories are at your disposal.
 </details>
 <details>
   <summary>💻 <strong>All Skills(minimalism)</strong></summary>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,vue,react,typescript,electron,django,bash,html,css,linux,git,docker,arduino,raspberrypi,figma,blender,markdown,vim,neovim,vscode,atom">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,vue,react,typescript,electron,django,bash,html,css,linux,git,docker,arduino,raspberrypi,figma,blender,markdown,vim,neovim,vscode,atom,node">
 </details>
 
