@@ -59,6 +59,7 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=flat-square&logo=kde&logoColor=white"></a>
   <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=flat-square&logo=dwm&logoColor=white"></a>
   <a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </details>
 
 
