@@ -54,7 +54,7 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
   <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
-  <a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badgee&logo=xfce&logoColor=white"></a>
+  <a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white"></a>
   <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=for-the-badge&logo=gnome&logoColor=white"></a>
   <a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=for-the-badge&logo=kde&logoColor=white"></a>
   <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=for-the-badge&logo=dwm&logoColor=white"></a>
