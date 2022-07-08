@@ -1,4 +1,4 @@
-### Hi! Good to see you on my Github page! 👋
+<h2>Hi! Good to see you on my Github page! 👋</h2>
 I publish open source software here. All the repositories are at your disposal.
 <details>
   <summary>🌐 <strong>Social</strong></summary>
