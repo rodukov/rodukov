@@ -7,6 +7,7 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://pypi.org/user/pythonpackage/"><img src="https://img.shields.io/badge/PYPI-3670A0?style=for-the-badge&logo=pypi&logoColor=ffffff"></a>
   <a href="https://codepen.io/euphoriacodepen/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://rodukov.github.io/"><img src="https://img.shields.io/badge/Personal%20Website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/GlebLitovsky"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 </details>
 
