@@ -1,7 +1,7 @@
 ### Hi! Good to see you on my Github page! 👋
 I publish open source software here. All the repositories are at your disposal.
 <details>
-  <summary>🌐 <strong>Socials</strong></summary>
+  <summary>🌐 <strong>All additional links</strong></summary>
   <a href="https://t.me/sata30/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://discord.com/users/882592885512482837/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://pypi.org/user/pythonpackage/"><img src="https://img.shields.io/badge/PYPI-3670A0?style=for-the-badge&logo=pypi&logoColor=ffffff"></a>
