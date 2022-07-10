@@ -4,14 +4,15 @@ I publish open source software here. All the repositories are at your disposal.
   <summary>🌐 <strong>All additional links</strong></summary>
   <a href="https://t.me/sata30/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://discord.com/users/882592885512482837/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://twitter.com/GlebLitovsky"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://pypi.org/user/pythonpackage/"><img src="https://img.shields.io/badge/PYPI-3670A0?style=for-the-badge&logo=pypi&logoColor=ffffff"></a>
   <a href="https://codepen.io/euphoriacodepen/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/rodukov"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
   <a href="https://rodukov.github.io/"><img src="https://img.shields.io/badge/Personal%20Website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/GlebLitovsky"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://github.com/rodukov/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <a href="https://bitbucket.org/rodukov/"><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
   <a href="https://notabug.org/rodukov/"><img src="https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white"></a>
-  <a href="https://www.buymeacoffee.com/rodukov"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+
  
 </details>
 
