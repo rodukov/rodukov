@@ -32,6 +32,7 @@ I publish open source software here. All the repositories are at your disposal.
 <details>
   <summary>❇️ <strong>Frameworks</strong></summary>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django Rest Framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/electronjs-191970?style=for-the-badge&logo=Electron&logoColor=white"></a>
