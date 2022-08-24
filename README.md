@@ -3,7 +3,6 @@ I publish open source software here. All the repositories are at your disposal.
 <details>
   <summary>🌐 <strong>All additional links</strong></summary>
   <a href="https://t.me/sata30/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://discord.com/users/882592885512482837/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://twitter.com/GlebLitovsky"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://mail.google.com/mail/u/electroneuphoria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://mail.google.com/mail/u/electroneuphoria@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
