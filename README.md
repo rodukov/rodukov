@@ -13,7 +13,7 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://bitbucket.org/rodukov/"><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
   <a href="https://notabug.org/rodukov/"><img src="https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white"></a>
 
-#### 😎 Languages
+#### 💻 Languages
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -25,7 +25,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 
 
-#### ❇️ Frameworks
+#### 🧲 Frameworks
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django Rest Framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
@@ -36,7 +36,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 
 
-#### 💎 Software
+#### 📋 Software
   <a href="https://www.microsoft.com/microsoft-365/excel?rtc=1"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   <a href="https://www.microsoft.com/microsoft-365/word?rtc=1"><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
   <a href="https://www.microsoft.com/microsoft-365/powerpoint?rtc=2"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
@@ -107,6 +107,6 @@ I publish open source software here. All the repositories are at your disposal.
 #### 📈 Commit graph
   <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
 
-#### 💻 All Skills(minimalism)
+#### ♎️ All Skills(minimalism)
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,vue,react,typescript,electron,django,bash,html,css,linux,git,docker,arduino,raspberrypi,figma,blender,markdown,vim,neovim,vscode,atom,nodejs">
 
