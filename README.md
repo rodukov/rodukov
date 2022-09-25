@@ -1,6 +1,6 @@
 ### Hi! Good to see you on my Github page! 👋
 I publish open source software here. All the repositories are at your disposal.
-#### 🌐 All additional links
+### 🌐 All additional links
   <a href="https://t.me/sata30/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://twitter.com/GlebLitovsky"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://mail.google.com/mail/u/electroneuphoria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -13,7 +13,7 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://bitbucket.org/rodukov/"><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
   <a href="https://notabug.org/rodukov/"><img src="https://img.shields.io/badge/NotaBug-428BCA.svg?style=for-the-badge&logo=notabug&logoColor=white"></a>
 
-#### 💻 Languages
+### 💻 Languages
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -25,7 +25,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 
 
-#### 🧲 Frameworks
+### 🧲 Frameworks
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django Rest Framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
@@ -36,7 +36,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 
 
-#### 📋 Software
+### 📋 Software
   <a href="https://www.microsoft.com/microsoft-365/excel?rtc=1"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   <a href="https://www.microsoft.com/microsoft-365/word?rtc=1"><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
   <a href="https://www.microsoft.com/microsoft-365/powerpoint?rtc=2"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
@@ -46,7 +46,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 
 
-#### 📎 Others
+### 📎 Others
   <a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white"></a>
   <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=for-the-badge&logo=gnome&logoColor=white"></a>
   <a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=for-the-badge&logo=kde&logoColor=white"></a>
@@ -61,7 +61,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 
 
-#### ⚙️ Operating Systems
+### ⚙️ Operating Systems
   <div style="margin-top: 15px;">
     <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white"></a>
     <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
@@ -76,7 +76,7 @@ I publish open source software here. All the repositories are at your disposal.
   </div>
 
 
-#### 📔 IDEs
+### 📔 IDEs
   <div style="margin-top: 15px;">
   <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"></a>
   <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"></a>
@@ -88,25 +88,25 @@ I publish open source software here. All the repositories are at your disposal.
   </div>
 
 
-#### 💰 Donate
+### 💰 Donate
   <blockquote>🙏 I will be very, very happy even from a small donation.</blockquote>
   🔸 <strong>Bitcoin:</strong> <code>bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a</code><br>
   🔸 <strong>Ethereum:</strong> <code>0x0C1a70FD3FE5ccc47854804A157790307b3c50E6</code><br>
   🔸 <strong><a href="https://github.com/rodukov/rodukov/blob/main/all_crypto.md">Other Crypto</a></strong>
 
-#### 🧰 Top Languages
+### 🧰 Top Languages
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
 
 
-#### 📊 Github Stats
+### 📊 Github Stats
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api?username=rodukov&theme=great-gatsby&show_icons=true"></a>
   <br><img src="https://visitor-badge.glitch.me/badge?page_id=rodukov" alt="Visitors Counter">
   <img src="https://komarev.com/ghpvc/?username=rodukov&label=Profile%20views&color=BD9F1A&style=flat" alt="rodukov" />
 
 
-#### 📈 Commit graph
+### 📈 Commit graph
   <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
 
-#### ♎️ All Skills(minimalism)
+### ♎️ All Skills(minimalism)
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,vue,react,typescript,electron,django,bash,html,css,linux,git,docker,arduino,raspberrypi,figma,blender,markdown,vim,neovim,vscode,atom,nodejs">
 
