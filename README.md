@@ -112,3 +112,4 @@ I publish open source software here. All the repositories are at your disposal.
 
 ### 🟩⬛️ My hardware
 <a href="https://nvidia.com/"><img src="https://img.shields.io/badge/RTX%203060-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"></a>
+<a href="https://nvidia.com/"><img src="https://img.shields.io/badge/Ryzen%207%205800H-D42323.svg?style=for-the-badge&logo=amd&logoColor=white"></a>
