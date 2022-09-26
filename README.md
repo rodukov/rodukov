@@ -110,3 +110,5 @@ I publish open source software here. All the repositories are at your disposal.
 ### ♎️ All Skills(minimalism)
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,vue,react,typescript,electron,django,bash,html,css,linux,git,docker,arduino,raspberrypi,figma,blender,markdown,vim,neovim,vscode,atom,nodejs">
 
+### 🟩⬛️ My hardware
+<a href="https://nvidia.com/"><img src="https://img.shields.io/badge/RTX%203060-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"></a>
