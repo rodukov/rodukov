@@ -94,19 +94,23 @@ I publish open source software here. All the repositories are at your disposal.
   🔸 <strong>Ethereum:</strong> <code>0x0C1a70FD3FE5ccc47854804A157790307b3c50E6</code><br>
   🔸 <strong><a href="https://github.com/rodukov/rodukov/blob/main/all_crypto.md">Other Crypto</a></strong>
 
-### 🧰 Top Languages
+<details>
+<summary>🧰 Top Languages</summary>
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
-
-
-### 📊 Github Stats
+</details>
+    
+<details>
+  <summary>📊 Github Stats</summary>
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api?username=rodukov&theme=great-gatsby&show_icons=true"></a>
   <br><img src="https://visitor-badge.glitch.me/badge?page_id=rodukov" alt="Visitors Counter">
   <img src="https://komarev.com/ghpvc/?username=rodukov&label=Profile%20views&color=BD9F1A&style=flat" alt="rodukov" />
-
-
-### 📈 Commit graph
+</details>
+    
+<details>
+  <summary> 📈 Commit graph</summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
-
+</details>
+    
 <details>
 <summary>♎️ All Skills(minimalism)</summary>
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,vue,react,typescript,electron,django,bash,html,css,linux,git,docker,arduino,raspberrypi,figma,blender,markdown,vim,neovim,vscode,atom,nodejs">
