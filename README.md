@@ -81,9 +81,6 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white"></a>
   <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"></a>
   <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"></a>
-  <a href="https://www.nano-editor.org/"><img src="https://img.shields.io/badge/-Nano-red?style=flat-square"></a>
-  <a href="https://micro-editor.github.io/"><img src="https://img.shields.io/badge/Micro-2E3192.svg?style=flat-square&logo=micro&logoColor=white"></a>
-  <a href="https://www.geany.org/"><img src="https://img.shields.io/badge/Geany-CBBB2B.svg?&style=flat-square&logo=geany&logoColor=white"></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   </div>
 
