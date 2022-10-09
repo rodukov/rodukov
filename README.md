@@ -11,8 +11,6 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="/"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="/"><img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=white"></a>
 
-
-
 ### 🧲 Frameworks
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
@@ -21,19 +19,9 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
-
-
-### 📋 Software
-  <a href="https://www.microsoft.com/microsoft-365/excel?rtc=1"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
-  <a href="https://www.microsoft.com/microsoft-365/word?rtc=1"><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
-  <a href="https://www.microsoft.com/microsoft-365/powerpoint?rtc=2"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
+### 📎 Others
   <a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
   <a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
-
-
-
-
-### 📎 Others
   <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=for-the-badge&logo=dwm&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
