@@ -35,9 +35,6 @@ I publish open source software here. All the repositories are at your disposal.
 
 
 ### 📎 Others
-  <a href="https://www.xfce.org/"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white"></a>
-  <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=for-the-badge&logo=gnome&logoColor=white"></a>
-  <a href="https://kde.org/"><img src="https://img.shields.io/badge/KDE-%232284F2.svg?style=for-the-badge&logo=kde&logoColor=white"></a>
   <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=for-the-badge&logo=dwm&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
