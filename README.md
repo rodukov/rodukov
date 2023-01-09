@@ -33,7 +33,7 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
 
-### 💰 Donate
+### 💰 Support me
   🔸 <strong>Bitcoin:</strong> <code>bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a</code><br>
   🔸 <strong>Ethereum:</strong> <code>0x0C1a70FD3FE5ccc47854804A157790307b3c50E6</code><br>
   🔸 <strong><a href="https://github.com/rodukov/rodukov/blob/main/all_crypto.md">Other Crypto</a></strong>
@@ -53,15 +53,4 @@ I publish open source software here. All the repositories are at your disposal.
 <details>
   <summary> 📈 Commit graph</summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
-</details>
-    
-<details>
-<summary>♎️ All Skills(minimalism)</summary>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,vue,react,typescript,electron,django,bash,html,css,linux,git,docker,arduino,raspberrypi,figma,blender,markdown,vim,neovim,vscode,atom,nodejs">
-</details>
-
-<details>
-<summary>🟩 My hardware</summary>
-<a href="https://nvidia.com/"><img src="https://img.shields.io/badge/RTX%203060-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"></a>
-<a href="https://amd.com/"><img src="https://img.shields.io/badge/Ryzen%207%205800H-D42323.svg?style=for-the-badge&logo=amd&logoColor=white"></a>
 </details>
