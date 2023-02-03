@@ -49,8 +49,3 @@ I publish open source software here. All the repositories are at your disposal.
   <br><img src="https://visitor-badge.glitch.me/badge?page_id=rodukov" alt="Visitors Counter">
   <img src="https://komarev.com/ghpvc/?username=rodukov&label=Profile%20views&color=BD9F1A&style=flat" alt="rodukov" />
 </details>
-    
-<details>
-  <summary> 📈 Commit graph</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=rodukov&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
-</details>
