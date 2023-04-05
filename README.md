@@ -28,12 +28,6 @@ I publish open source software here. All the repositories are at your disposal.
   <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
-
-### 💰 Support me
-  🔸 <strong>Bitcoin:</strong> <code>bc1qngrm2a3wqdnltsunwdc24xmf4lce5e89ffan2a</code><br>
-  🔸 <strong>Ethereum:</strong> <code>0x0C1a70FD3FE5ccc47854804A157790307b3c50E6</code><br>
-  🔸 <strong><a href="https://github.com/rodukov/rodukov/blob/main/all_crypto.md">Other Crypto</a></strong>
-
 <details>
 <summary>🧰 Top Languages</summary>
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
