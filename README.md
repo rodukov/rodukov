@@ -1,21 +1,16 @@
 ### Hi! Good to see you on my Github page! 👋
 I publish open source software here. All the repositories are at your disposal.
 
-### 💻 Languages
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="/"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="/"><img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=white"></a>
-
-### 🧲 Frameworks
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/electronjs-191970?style=for-the-badge&logo=Electron&logoColor=white"></a>
   <a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
-
-### 📎 Others
   <a href="https://figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
   <a href="https://blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
   <a href="https://dwm.suckless.org/"><img src="https://img.shields.io/badge/DWM-C12921.svg?style=for-the-badge&logo=dwm&logoColor=white"></a>
