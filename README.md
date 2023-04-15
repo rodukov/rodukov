@@ -1,5 +1,5 @@
 ### Hi! Good to see you on my Github page! 👋
-I publish open source software here. All the repositories are at your disposal.
+### Technologies I use
 
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
