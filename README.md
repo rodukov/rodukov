@@ -43,6 +43,17 @@
 </details>
 
 <details>
+<summary>🌐 Additional links </summary>
+  <br>
+  <a href="https://rodukov.github.io/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="/"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
+  <a href="/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="/"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="/"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+
+</details>
+
+<details>
 <summary>🧰 GitHub Stats:</summary>
   <br>
   <div style="display: flex; margin-left: 10px;">
