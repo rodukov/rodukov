@@ -2,7 +2,7 @@
 <h2>Hi there, I'm Gleb Rodukov 👋🏻</h2>
 <details>
   <summary>
-    👨‍💻 I'm currently learning: 
+    👨‍💻 I'm currently learning
   </summary>
   <br/>
   <div>
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary>💻 Interesting technologies which I hope to learn in the future: </summary>
+<summary>💻 Interesting technologies which I hope to learn in the future</summary>
   <br>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>🧰 GitHub Stats:</summary>
+<summary>🧰 GitHub Stats</summary>
   <br>
   <div style="display: flex; margin-left: 10px;">
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
