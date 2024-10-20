@@ -8,6 +8,12 @@ Technologies I specialize in:
     <a href="/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   </div>
 
+Software I specialize in:
+  <div>
+    <a href="/"><img src="https://img.shields.io/badge/autocad-e51050?style=for-the-badge&logo=autocad&logoColor=white"></a>
+    <a href="/"><img src="https://img.shields.io/badge/%E2%96%BC%20Visual%20Studio-5C2D91.svg?style=for-the-badge&logoColor=white"></a>
+
+  </div>
 
 <details>
 <summary>🧰 GitHub Stats</summary>
