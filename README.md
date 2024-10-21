@@ -12,16 +12,17 @@ Software I specialize in:
   <div>
     <a href="/"><img src="https://img.shields.io/badge/autocad-e51050?style=for-the-badge&logo=autocad&logoColor=white"></a>
     <a href="/"><img src="https://img.shields.io/badge/%E2%96%BC%20Visual%20Studio-5C2D91.svg?style=for-the-badge&logoColor=white"></a>
+    <a href="/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
 
   </div>
 
-<details>
+<!--details>
 <summary>🧰 GitHub Stats</summary>
   <br>
   <div style="display: flex; margin-left: 10px;">
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=compact&theme=dark"></a>
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api?username=rodukov&theme=great-gatsby&show_icons=true"></a>
   </div>
-</details>
+</details-->
 
 <br><img src="https://komarev.com/ghpvc/?username=rodukov&label=Profile%20views&color=BD9F1A&style=flat" alt="rodukov" />
