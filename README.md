@@ -13,8 +13,21 @@ Software I specialize in:
     <a href="/"><img src="https://img.shields.io/badge/autocad-e51050?style=for-the-badge&logo=autocad&logoColor=white"></a>
     <a href="/"><img src="https://img.shields.io/badge/%E2%96%BC%20Visual%20Studio-5C2D91.svg?style=for-the-badge&logoColor=white"></a>
     <a href="/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
-
-  </div>
+<hr>
+    
+  <details>
+    <summary>Open Source</summary>
+    <div>
+    <h5 align=left><b>⊦ markdown homepage https://github.com/rodukov/rodukov</b></h5>
+    <h5 align=left><b>⊦ lightshot parser https://github.com/rodukov/lightextender</b></h5>
+    <h5 align=left><b>⊦ text sorter https://github.com/rodukov/textsorter</b></h5>
+    <h5 align=left><b>⊦ TUI automatic clicker https://github.com/rodukov/pyautoclick</b></h5>
+    <h5 align=left><b>⊦ irregular verbs trainer https://github.com/rodukov/IrregularVerbs </b></h5>
+    <h5 align=left><b>⊦ nasa parser https://github.com/rodukov/openNasa </b></h5>
+    <h5 align=left><b>⊦ fresh proxy grabber https://github.com/rodukov/proxyGrab </b></h5>
+    <h5 align=left><b>⊦ bing auto-requests https://github.com/rodukov/BingSolver </b></h5>
+    </div>
+  </details>
 
 <!--details>
 <summary>🧰 GitHub Stats</summary>
