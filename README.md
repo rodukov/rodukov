@@ -22,5 +22,3 @@ Software I specialize in:
   <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api?username=rodukov&theme=great-gatsby&show_icons=true"></a>
   </div>
 </details>
-
-<br><img src="https://komarev.com/ghpvc/?username=rodukov&label=Profile%20views&color=BD9F1A&style=flat" alt="rodukov" />
