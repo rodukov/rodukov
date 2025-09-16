@@ -19,7 +19,7 @@ Software I specialize in:
 <summary>Public Stats</summary>
   <br>
   <div style="display: flex; margin-left: 10px;">
-  <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=pie&theme=midnight-purple"></a>
-  <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api?username=rodukov&theme=midnight-purple&show_icons=true&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"></a>
+  <a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodukov&layout=pie&theme=graywhite"></a>
+  <!--a href="https://github.com/rodukov/"><img src="https://github-readme-stats.vercel.app/api?username=rodukov&theme=midnight-purple&show_icons=true&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"></a-->
   </div>
 </details>
