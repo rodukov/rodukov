@@ -1,5 +1,5 @@
 <br>
-<h2>Hi there, I'm Gleb Rodukov 👋🏻</h2>
+<h2>Hi there, I'm Gleb Rodukov</h2>
 
 <b>Technologies I specialize in:</b>
   <div>
