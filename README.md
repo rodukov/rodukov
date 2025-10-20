@@ -11,7 +11,7 @@
 
 <b>Software I specialize in:</b>
   <div>
-    <a href="/"><img src="https://img.shields.io/badge/%E2%96%BC%20Visual%20Studio-5C2D91.svg?style=for-the-badge&logoColor=white"></a>
+    <a href="/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logoColor=white"></a>
     <a href="/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
 
 <details>
